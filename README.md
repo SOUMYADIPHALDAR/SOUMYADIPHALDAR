@@ -24,7 +24,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,git,postman" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadiphaldar&show_icons=true&locale=en&layout=compact" />
-</p>

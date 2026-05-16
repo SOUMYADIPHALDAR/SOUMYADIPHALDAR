@@ -6,7 +6,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://twitter.com/soumya" target="_blank" style="display:inline-block;margin:0 10px;">
+  <a href="https://x.com/HaldarSoum82185" target="_blank" style="display:inline-block;margin:0 10px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Twitter"
@@ -24,7 +24,7 @@
     />
   </a>
 
-  <a href="https://leetcode.com/soumya" target="_blank" style="display:inline-block;margin:0 10px;">
+  <a href="https://leetcode.com/_Soumyadip" target="_blank" style="display:inline-block;margin:0 10px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="LeetCode"

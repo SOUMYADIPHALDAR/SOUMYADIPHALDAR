@@ -14,7 +14,7 @@
   <a href="https://x.com/HaldarSoum82185" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
-  <a href="https://leetcode.com/u/Lyvai/" target="_blank">
+  <a href="https://leetcode.com/u/_Soumyadip/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="45" />
   </a>
 </div>

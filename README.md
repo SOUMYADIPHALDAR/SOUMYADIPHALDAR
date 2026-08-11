@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xsushanta&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SOUMYADIPHALDAR&theme=dark&hide_border=true&layout=compact" />
 </p>

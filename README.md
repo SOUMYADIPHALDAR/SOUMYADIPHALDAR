@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/appwrite/FD366E" alt="appwrite" width="40" height="40"/>
   </a>
@@ -35,7 +35,7 @@
   
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/>
   </a>
